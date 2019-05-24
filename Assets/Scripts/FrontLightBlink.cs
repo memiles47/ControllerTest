@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FrontLightBlink : MonoBehaviour
 {
+    //This script is to start the front lights to blink
     // Start is called before the first frame update
     void Start()
     {
